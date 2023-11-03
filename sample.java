@@ -1,5 +1,6 @@
-class Sample{
-public satatic void main (String[] args){
-System.out.println("hello");
-}
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
 }
